@@ -17,6 +17,8 @@
 		1F2B76A028F2EDFF0001CFD6 /* UIView + Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2B769F28F2EDFF0001CFD6 /* UIView + Extensions.swift */; };
 		1F2B76A228F3258C0001CFD6 /* OperationsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2B76A128F3258C0001CFD6 /* OperationsModel.swift */; };
 		1F2B76A428F326C10001CFD6 /* CalculationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2B76A328F326C10001CFD6 /* CalculationModel.swift */; };
+		1F4A2EE728F86A5400C0ACB8 /* Double + Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F4A2EE628F86A5400C0ACB8 /* Double + Extensions.swift */; };
+		1F4A2EE928F86D7B00C0ACB8 /* String + Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F4A2EE828F86D7B00C0ACB8 /* String + Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		1F2B769F28F2EDFF0001CFD6 /* UIView + Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView + Extensions.swift"; sourceTree = "<group>"; };
 		1F2B76A128F3258C0001CFD6 /* OperationsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OperationsModel.swift; sourceTree = "<group>"; };
 		1F2B76A328F326C10001CFD6 /* CalculationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculationModel.swift; sourceTree = "<group>"; };
+		1F4A2EE628F86A5400C0ACB8 /* Double + Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double + Extensions.swift"; sourceTree = "<group>"; };
+		1F4A2EE828F86D7B00C0ACB8 /* String + Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String + Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +127,8 @@
 			children = (
 				1F2B769D28F2E6E70001CFD6 /* UIStackView + Extensions.swift */,
 				1F2B769F28F2EDFF0001CFD6 /* UIView + Extensions.swift */,
+				1F4A2EE628F86A5400C0ACB8 /* Double + Extensions.swift */,
+				1F4A2EE828F86D7B00C0ACB8 /* String + Extensions.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -200,6 +206,8 @@
 				1F2B769B28F2DC360001CFD6 /* MainStackView.swift in Sources */,
 				1F2B76A428F326C10001CFD6 /* CalculationModel.swift in Sources */,
 				1F2B769E28F2E6E70001CFD6 /* UIStackView + Extensions.swift in Sources */,
+				1F4A2EE728F86A5400C0ACB8 /* Double + Extensions.swift in Sources */,
+				1F4A2EE928F86D7B00C0ACB8 /* String + Extensions.swift in Sources */,
 				1F2B768528F2D4830001CFD6 /* MainViewController.swift in Sources */,
 				1F2B768128F2D4830001CFD6 /* AppDelegate.swift in Sources */,
 				1F2B76A228F3258C0001CFD6 /* OperationsModel.swift in Sources */,
